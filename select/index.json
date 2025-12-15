@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Zenryoku Syounen",
+  "base_artist": "SUKIMASWITCH",
+  "createdAt": "2025-12-15T11:43:33.003212Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "全力少年 - Zenryoku Syounen",
+      "artist": "SUKIMASWITCH",
+      "has_synced": true,
+      "path": "select/01_全力少年_-_Zenryoku_Syounen_SUKIMASWITCH.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Zenryoku Syounen",
+      "artist": "SUKIMASWITCH",
+      "has_synced": true,
+      "path": "select/02_Zenryoku_Syounen_SUKIMASWITCH.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Zenryoku Syounen (全力少年)",
+      "artist": "Sukima Switch",
+      "has_synced": false,
+      "path": "select/03_Zenryoku_Syounen_(全力少年)_Sukima_Switch.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Zenryoku Syounen",
+      "artist": "SUKIMASWITCH",
+      "has_synced": true,
+      "path": "select/04_Zenryoku_Syounen_SUKIMASWITCH.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "全力少年 (Remastered)",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_01_全力少年_(Remastered)_スキマスイッチ.txt"
+    }
+  ]
+}
